@@ -4,8 +4,8 @@
     . Latitude and Longitude of these neighborhoods
     . Venue data related to most common places in the Bronx
 #### Extracting the data:
-    . Scrapping the Bronx neighborhoods cia NYU spatial data provider
-    . Getting Latitude and Longitude data of these neighborhoods via Geocoder package
+    . Scrapping the Bronx neighborhoods via NYU spatial data provider
+    . Extracting Latitude and Longitude data of these neighborhoods via Geocoder package
     . Using Foursquare API to get venue data releted to these neighborhoods
     
 #### Method
