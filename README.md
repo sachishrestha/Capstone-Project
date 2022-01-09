@@ -1,7 +1,7 @@
 # Exploring-Bronx New York
 #### Data:
     . List of neighborhoods in Bronx, NY
-    . Latitude and Longitude of these neighborhoods
+    . Latitude and Longitude of the neighborhoods
     . Venue data related to most common places in the Bronx
 #### Extracting the data:
     . Scrapping the Bronx neighborhoods via NYU spatial data provider
